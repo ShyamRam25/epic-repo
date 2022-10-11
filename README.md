@@ -1,4 +1,4 @@
-# epic-repo
+# Shyam-Ram
 
 
-This is an epic repo!
+### Hi there! My name is Shyam, and I'm a Computer Science student at Texas A&M University!
